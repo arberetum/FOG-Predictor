@@ -1,0 +1,15 @@
+all fours
+forward
+knees
+knee
+hand
+elbows
+wrist
+front
+stomach
+forehead
+arm
+face
+hands
+wrists
+chest

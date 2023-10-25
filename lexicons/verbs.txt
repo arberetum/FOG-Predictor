@@ -1,0 +1,16 @@
+Fall	NODIR
+Fell	NODIR
+Falling	NODIR
+Falls	NODIR
+Landed	NODIR
+Landing	NODIR
+Land	NODIR
+Lands	NODIR
+Back up	backward
+Backs up	backward
+Backing	backward
+Backed	backward
+Sidestep	sideways
+Sidesteps	sideways
+Sidestepping	sideways
+Sidestepped	sideways

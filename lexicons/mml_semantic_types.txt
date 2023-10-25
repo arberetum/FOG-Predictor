@@ -1,0 +1,18 @@
+acty|T052|Activity
+bhvr|T053|Behavior
+blor|T029|Body Location or Region
+bpoc|T023|Body Part, Organ, or Organ Component
+cnce|T077|Conceptual Entity
+dora|T056|Daily or Recreational Activity
+evnt|T051|Event
+fndg|T033|Finding
+ftcn|T169|Functional Concept
+inpo|T037|Injury or Poisoning
+mnob|T073|Manufactured Object
+npop|T070|Natural Phenomenon or Process
+phob|T072|Physical Object
+qlco|T080|Qualitative Concept
+socb|T054|Social Behavior
+sosy|T184|Sign or Symptom
+spco|T082|Spatial Concept
+tmco|T079|Temporal Concept
